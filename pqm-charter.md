@@ -20,7 +20,7 @@ The [Planned WG Acronym] WG will be the working group of last resort for this PQ
 
 All PQ updates need not be done in the [Planned WG Acronym] WG.  Differences in performance, input or output size, or reliability for example, may prevent new PQ cryptographic mechanisms from being simple swaps with existing classical mechanisms found in current IETF protocols.  After analysis in the [Planned WG Acronym] WG, the complexity of some protocol adaptations may require the chartering of new, dedicated WGs.
 
-The [Planned WG Acronym] WG will not specify or standardize new PQ algorithms and methods.
+The [Planned WG Acronym] WG will not define new PQ algorithms and methods. It will only standardize the usage of PQ algorithms and methods that received review from [Post Quantum work collaborators].
 
 In making changes to protocols and registries, the [Planned WG Acronym] WG may encounter outdated algorithm options, and the WG may propose deprecation of such algorithms.  Additionally, the WG may document operational practices relevant to protocol operations and management in a hybrid (classic and PQ) environment. 
 
