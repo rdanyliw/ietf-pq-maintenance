@@ -22,7 +22,7 @@ All PQ updates need not be done in the [Planned WG Acronym] WG.  Differences in 
 
 The [Planned WG Acronym] WG will not define new PQ algorithms. It will only standardize the usage of PQ algorithms and methods that are defined by or received review from [Post Quantum work collaborators].
 
-In making changes to protocols and registries, the [Planned WG Acronym] WG may encounter outdated algorithm options, and the WG may propose deprecation of such algorithms.  Additionally, the WG may document operational practices relevant to protocol operations and management in a hybrid (classic and PQ) environment. 
+In making changes to protocols and registries, the [Planned WG Acronym] WG may encounter outdated algorithm options, and the WG may propose deprecation of such algorithms.  Such deprecation needs to be done with care, ensuring that interoperability and the needs of existing implementers and deployments are properly considered. Where deprecation is practical, the WG is encouraged to deprecate.  Additionally, the WG may document operational practices relevant to protocol operations and management in a hybrid (classic and PQ) environment.
 
 The WG is currently focused on updating [Protocols requiring attention without an active WG].
 
