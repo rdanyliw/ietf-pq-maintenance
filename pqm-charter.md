@@ -14,7 +14,7 @@
 ## Draft Text
 Continued advancements in the capabilities of quantum computers will reduce or compromise assurances provided by many widely deployed cryptographic algorithms, especially those relying on public key cryptography. Many IETF protocols currently rely on these vulnerable cryptographic mechanisms.  
 
-Active work is underway at the [Post Quantum Work Collaborators] to develop and validate Post-Quantum (PQ) cryptographic mechanisms expected to be resilient to the cryptanalysis capabilities of future quantum computing environments.  The [Planned WG Name] working group ([Planned WG Acronym]) is chartered as a maintenance WG to analyze; and adapt or update IETF protocols, registries, and associated code points with PQ cryptographic mechanism.
+Active work is underway at the [Post Quantum Work Collaborators] to develop and validate Post-Quantum (PQ) cryptographic mechanisms expected to be resilient to the cryptanalysis capabilities of future quantum computing environments.  The [Planned WG Name] working group ([Planned WG Acronym]) is chartered as a WG to analyze, adapt or update IETF protocols, registries, and associated code points with PQ cryptographic mechanisms.
 
 The [Planned WG Acronym] WG will be the working group of last resort for this PQ work.  If a given protocol or technology has an active WG in the IETF, any updates or required protocol maintenance should be done in that WG as the predominance of the expertise is expected to be there.
 
