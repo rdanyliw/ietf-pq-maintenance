@@ -1,4 +1,4 @@
-# Draft text for a PQ Maintenance WG
+# Draft text for a PQC Agility WG
 
 ## Placeholders
 [Planned WG name] = choose a name
@@ -16,7 +16,7 @@ Continued advancements in the capabilities of quantum computers will reduce or c
 
 Active work is underway at the [Post Quantum Work Collaborators] to develop and validate Post-Quantum (PQ) cryptographic mechanisms expected to be resilient to the cryptanalysis capabilities of future quantum computing environments.  The [Planned WG Name] working group ([Planned WG Acronym]) is chartered as a WG to analyze, adapt or update IETF protocols, registries, and associated code points with PQ cryptographic mechanisms.
 
-The [Planned WG Acronym] WG will be the working group of last resort for this PQ work.  If a given protocol or technology has an active WG in the IETF, any updates or required protocol maintenance should be done in that WG as the predominance of the expertise is expected to be there.
+The [Planned WG Acronym] WG will be the working group of last resort for this PQ work.  If a given protocol or technology has an active WG in the IETF, any updates or required protocol changes should be done in that WG as the predominance of the expertise is expected to be there.
 
 All PQ updates need not be done in the [Planned WG Acronym] WG.  Differences in performance, input or output size, or reliability for example, may prevent new PQ cryptographic mechanisms from being simple swaps with existing classical mechanisms found in current IETF protocols.  After analysis in the [Planned WG Acronym] WG, the complexity of some protocol adaptations may require the chartering of new, dedicated WGs.
 
