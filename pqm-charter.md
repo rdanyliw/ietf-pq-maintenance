@@ -5,9 +5,9 @@
 
 [Planned WG acronym]
 
-[Post Quantum work collaborators] = US National Institute of Standards and Technology, IRTF CFRG, ??
+[Post Quantum work collaborators] = (confirmed) US National Institute of Standards and Technology, IRTF CFRG; (any additional) ??
 
-[Protocols requiring attention without an active WG] = ?? Secure Shell (SSH), JOSE, DNSSEC, XML Digital Signatures and XML Encryption, Kerberos, ??
+[Protocols requiring attention without an active WG] = (confirmed) Secure Shell (SSH); (possible candidates) JOSE, DNSSEC, XML Digital Signatures and XML Encryption, Kerberos, ??
 
 [Liaison organizations] = ??
 
