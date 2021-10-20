@@ -26,6 +26,6 @@ In making changes to protocols and registries, the [Planned WG Acronym] WG may e
 
 The [Planned WG Acronym] is currently focused on updating [Protocols requiring attention without an active WG].
 
-The [Planned WG Acronym] will also provide a forum to discuss and understand the implications of new PQC algorithms.
+The [Planned WG Acronym] will also provide a forum to discuss and understand the implications of new PQC algorithms to IETF protocols.
 
 The [Planned WG Acronym] WG will liaise with [Liaison organizations].  It will also coordinate, as needed, with LAMPS on PQ work in CMS and PKIX.
